@@ -1,0 +1,5 @@
+services:
+  inflector.twig.extension:
+    class: Drupal\inflector\TwigExtension
+    tags:
+      - { name: twig.extension }

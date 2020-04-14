@@ -1,0 +1,4 @@
+name: Inflector
+type: module
+description: 'Convert English words between their singular and plural forms.'
+core_version_requirement: ^8.8 || ^9

@@ -1,0 +1,10 @@
+{
+    "name": "drupal/inflector",
+    "type": "drupal-module",
+    "description": "Convert English words between their singular and plural forms.",
+    "homepage": "http://drupal.org/project/inflector",
+    "license": "GPL-2.0+",
+    "require": {
+        "symfony/inflector": "^5.0"
+    }
+}
